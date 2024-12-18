@@ -25,4 +25,4 @@ jobs:
       with:
        context: 
        push: true
-       tags: Louis2Lisle/juice-shop-hmp:latest
+       tags: loicbreton/juice-shop-hmp:latest
